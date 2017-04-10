@@ -1,0 +1,51 @@
+body {
+    background-color: #eee;
+}
+
+body * {
+    color: rgba(0, 0, 0, 0.7);
+}
+
+nav {
+    background-color: #222;
+}
+
+nav a {
+    color: #ccc;
+}
+
+h1 {
+    color: #222;
+}
+
+.purple {
+    color: rebeccapurple;
+}
+
+.blue {
+    color: cornflowerblue;
+}
+
+.green {
+    color: seagreen;
+}
+
+input {
+    background: none;
+}
+
+textarea {
+    background: none;
+}
+
+button {
+    background: none;
+}
+
+footer p a {
+    color: rgba(0, 0, 0, 0.5);
+}
+
+li a img {
+    width: 30px;
+}
